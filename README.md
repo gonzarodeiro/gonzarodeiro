@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello 👋🏻 I am chalo! :<br><br>Software Engineer with more than 6 years of experience.<br><br>In recent years I have had the opportunity to learn and work with different technologies and I hope to continue doing so.<br><br>Personally, I like working with people, I am interested in bonding and learning from each of them. I constantly put myself in front of new challenges to try to solve them, either with my current tools or learning new ones.
+# 💫 Hi, I am chalo! 👋:
+Software Engineer with more than 6 years of experience.<br><br>In recent years I have had the opportunity to learn and work with different technologies and I hope to continue doing so.<br><br>Personally, I like working with people, I am interested in bonding and learning from each of them. I constantly put myself in front of new challenges to try to solve them, either with my current tools or learning new ones.
 
 
 ## 🌐 Socials:
